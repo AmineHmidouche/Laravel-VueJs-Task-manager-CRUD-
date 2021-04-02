@@ -59,6 +59,7 @@ font-size: 20px;
 }
 .active {
     color: green;
+    cursor: pointer;
 
 }
 .inactive {

@@ -66,5 +66,8 @@ updateChek() {
     border: none;
     color: red ;
     outline: none;
+    border-radius: 22px;
+    padding: 6px 6px 4px 7px;
+    cursor: pointer;
 }
 </style>
