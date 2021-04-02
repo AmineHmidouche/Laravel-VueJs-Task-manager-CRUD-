@@ -25,7 +25,7 @@ export default {
 
 <style scoped>
 .item {
-    background : rgb(124, 118, 118);
+    background: rgb(231 223 223);
     padding: 5px;
     margin-top: 5px;
 }

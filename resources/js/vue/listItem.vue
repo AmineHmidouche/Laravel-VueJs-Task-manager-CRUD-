@@ -62,7 +62,7 @@ updateChek() {
     align-items: center;
 }
 .trashcan { 
-    background : #e6e6e6e6;
+    background: #e8b9b9e6;
     border: none;
     color: red ;
     outline: none;

@@ -16671,7 +16671,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.completed[data-v-1d1939b8] {\r\n    text-decoration: line-through;\r\n    color: #999999;\n}\n.itemText[data-v-1d1939b8]{\r\n    width: 100%;\r\n    margin-left: 20px;\n}\n.item[data-v-1d1939b8] {\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\n}\n.trashcan[data-v-1d1939b8] { \r\n    background : #e6e6e6e6;\r\n    border: none;\r\n    color: red ;\r\n    outline: none;\r\n    border-radius: 22px;\r\n    padding: 6px 6px 4px 7px;\r\n    cursor: pointer;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.completed[data-v-1d1939b8] {\r\n    text-decoration: line-through;\r\n    color: #999999;\n}\n.itemText[data-v-1d1939b8]{\r\n    width: 100%;\r\n    margin-left: 20px;\n}\n.item[data-v-1d1939b8] {\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\n}\n.trashcan[data-v-1d1939b8] { \r\n    background: #e8b9b9e6;\r\n    border: none;\r\n    color: red ;\r\n    outline: none;\r\n    border-radius: 22px;\r\n    padding: 6px 6px 4px 7px;\r\n    cursor: pointer;\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -16695,7 +16695,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.item[data-v-1e30e04a] {\r\n    background : rgb(124, 118, 118);\r\n    padding: 5px;\r\n    margin-top: 5px;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.item[data-v-1e30e04a] {\r\n    background: rgb(231 223 223);\r\n    padding: 5px;\r\n    margin-top: 5px;\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
